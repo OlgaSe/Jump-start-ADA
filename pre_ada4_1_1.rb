@@ -45,4 +45,4 @@ until contains_special_char && contains_digit && correct_length
         password_chars = password.split('')
     end
 end
-puts "Congratulations! Finally, you've entered password that matches our criteria."
+puts "Congratulations! Finally, you've entered password that match our criteria."
